@@ -1,9 +1,9 @@
-# fly.toml app configuration file for pacman-go-backend
+# fly.toml app configuration file generated for pacman-go-backend-0401110352 on 2026-04-01T11:04:10-07:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'pacman-go-backend'
+app = 'pacman-go-backend-0401110352'
 primary_region = 'iad'
 
 [build]
