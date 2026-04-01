@@ -1,6 +1,6 @@
 # pacman-fullstack-golang
 
-Project name: pacman-fullstack-golang
+Check out the live game here: https://pacman-fullstack-golang.vercel.app
 
 Pacman game project with a JavaScript client and a Go backend for leaderboard APIs.
 
